@@ -1,6 +1,7 @@
 # Restful Booker Postman Collection
 
 This is an **example** Postman collection for testing the [Restful Booker API](https://restful-booker.herokuapp.com/). It demonstrates how you might automate API testing with Postman, using example test cases and data-driven capabilities.  
+
 **Note:** This collection is provided as a demonstration and is not intended as a comprehensive or exhaustive suite of tests.
 
 ## Overview
